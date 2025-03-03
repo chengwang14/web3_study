@@ -1,2 +1,2 @@
 # web3_study
-study web3
+这是学习web3,提交每次作业的地方。
